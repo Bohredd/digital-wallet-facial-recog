@@ -1,3 +1,7 @@
-face_recognition
+deepface
 opencv-python
+pandas
+tf-keras
+face_recognition
 numpy
+Django==5.1.2
