@@ -1,0 +1,9 @@
+*/venv/
+*/env/
+*/.idea/
+*/.vscode/
+*/.pytest_cache/
+*/.mypy_cache/
+*/.tox/
+*/.coverage
+*/.DS_Store
